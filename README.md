@@ -101,9 +101,9 @@ MIT License
 
 ## Author
 
-GitHub: https://github.com/your-handle  
-Public contact (email): your-name@proton.me  
-Public contact (X): https://x.com/your-handle  
+GitHub: https://github.com/8omnipotent8  
+Public contact (email): finned_homages.0t@icloud.com  
+Public contact (X): https://x.com/lykinakristina  
 
 ## Testnet Deployment (Base Sepolia)
 
@@ -114,24 +114,15 @@ chainId (decimal): 84532
 Explorer: https://sepolia.basescan.org  
 
 Contract #1 address:  
-your_adress  
+0x3ad578a74d32ae476805325bfc4b7c2e7ac2b9ef  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x3ad578a74d32ae476805325bfc4b7c2e7ac2b9ef   
 
-Contract #2 address (optional):  
-your_adress  
-
-Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
-
-Contract #3 address (optional):  
-your_adress  
+Contract #2 address:  
+0x6732d0743482055f0913c22751a56346aedf56ec  
 
 Deployment and verification:
-- https://sepolia.basescan.org/address/your_adress  
-- https://sepolia.basescan.org/your_adress/0#code  
+- https://sepolia.basescan.org/address/0x6732d0743482055f0913c22751a56346aedf56ec    
 
 These testnet deployments are used to confirm Base tooling compatibility, account abstraction–related workflows, and onchain read behavior in a controlled environment before production usage.
