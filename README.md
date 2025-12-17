@@ -78,23 +78,6 @@ Optional environment variables:
 - If RPC chainId does not match the selected network, verify wallet network settings
 - Public RPC endpoints are rate-limited and intended for development use
 
-## Base Mainnet Deployment
-
-Deployed on Base Mainnet
-
-Network: Base Mainnet  
-chainId (decimal): 8453  
-Explorer: https://basescan.org  
-
-Deployed contract address:  
-your_adress  
-
-Basescan deployment and verification links:
-- Contract address:  
-  https://basescan.org/address/your_adress  
-- Contract verification (source code):  
-  https://basescan.org/address/your_adress#code  
-
 ## License
 
 MIT License
